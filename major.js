@@ -1,2 +1,3 @@
-major.js
+function myFunction(){ 
+}
 
